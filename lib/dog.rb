@@ -5,7 +5,7 @@ class Dog
   end
   # getter, gets a property
   def name
-    this_dogs_name
+    @this_dogs_name
   end
 end
 
